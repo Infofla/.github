@@ -1,7 +1,7 @@
 <!-- 배너 이미지 (원한다면 넣기) -->
 <p align="center">
   <!-- INFOFLA 로고/배너 -->
-  <img src="![Image](https://github.com/user-attachments/assets/05ba2536-3233-4fa2-85ff-f413e27b51b0)" alt="INFOFLA Logo" width="400" />
+  <img src="[Image](https://github.com/user-attachments/assets/05ba2536-3233-4fa2-85ff-f413e27b51b0)" alt="INFOFLA Logo" width="400" />
 </p>
 
 # 👋 INFOFLA
